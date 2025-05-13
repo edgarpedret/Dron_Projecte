@@ -4,7 +4,7 @@ Hem creat un codi amb Python utilitzant el Pymavlink per establir comunicacions 
 
 Codi Font:
 
-[Codi Font Python](cody.py)
+[Codi Font Python](codi_font.py)
 
 Documentació Projecte:
 
