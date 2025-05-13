@@ -8,6 +8,6 @@ Codi Font:
 
 Documentació Projecte:
 
-[Documentació Projecte Dron PDF](Informe Projecte Dron.pdf)
+[Documentació Projecte Dron PDF](Informe_Projecte_Dron.pdf)
 
 ![Descripción de la imagen](3a6546469555d30cfcdaf4c30929d146.png)
